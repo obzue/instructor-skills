@@ -4,7 +4,7 @@ The company name is **ObzueAI**. Spell it that way. Not Abzu, not Obzue, not Obz
 
 Professor is the instructor: presentations, seminars, colleges, schools, universities, meetings, and weddings. It teaches from sources loaded into its window, in the language the room chooses.
 
-The how-to is [docs/HOW-TO-USE.md](docs/HOW-TO-USE.md). The same guide is also `docs/obzueai-professor-how-to.pdf`.
+The how-to is [docs/HOW-TO-USE.md](docs/HOW-TO-USE.md). How a change is pushed is [docs/GITHUB-UPDATES.md](docs/GITHUB-UPDATES.md). The same guide is also `docs/obzueai-professor-how-to.pdf`.
 
 ## Installed skills
 
