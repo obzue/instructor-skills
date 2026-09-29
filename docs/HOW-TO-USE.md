@@ -8,7 +8,7 @@ Professor is the instructor.
 
 Corta greets you once. She is the interactive professor for ObzueAI. She teaches a course, reads a book, makes a documentary, and can start a framework for a podcast, a live event, or a live stream.
 
-Choose the device and the voice, then give Corta Membrane access. Her browser opens. Add notes if you want, or tell her the project name. If she should search the web, tell her what to open. Private documents stay off until you name a file.
+Choose the device and the voice, then give Corta Membrane access. Her browser opens. She speaks through Grok TTS in the voice she already chose. Cartesia Sonic 3.6 and ElevenLabs Eleven v3 are on file and are not switched on, because either one would replace her voice. Add notes if you want, or tell her the project name. If she should search the web, tell her what to open. Private documents stay off until you name a file.
 
 ## What it is for
 
@@ -19,7 +19,7 @@ Professor is multi-language and stays engageable in each room. A seminar presses
 ## When Professor takes over
 
 1. Open the desk. That window is the framework.
-2. Load every source for the session: a public web address, a PDF link, or a text or PDF file you choose.
+2. Load every source for the session: a public web address, or a document you choose. PDF, Word, PowerPoint, spreadsheets, text, images, audio, and video open in the browser.
 3. Choose the language and the room.
 4. Professor teaches from what is inside the window: the reading, the graph, the review, and your claim.
 
