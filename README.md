@@ -7,6 +7,7 @@ Agent skills for a classroom that teaches from a source, schedules reviews, and 
 - `tutorial-instructor` — ingest a link, PDF, book, or screenshot. Learning graph. Bloom exit tickets. SM-2 reviews.
 - `live-seminar` — one claim, one Bloom level, one objection.
 - `product-designer` — web and app UI. Direction taken from frontend-design, web-design-guidelines, and ui-ux-pro-max. Original text, not a copy of those repos.
+- `desk-capture` — film the virtual desk. Beat log plus a readable WebM. Tab share only if the learner allows it.
 - `movie-producer` and `high-quality-video-generator` — tutorial and film output.
 - `song-studio` and `full-song-generator` — score and lyrics.
 

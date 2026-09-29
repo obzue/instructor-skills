@@ -14,6 +14,7 @@ Turn a source into a course the learner can actually finish. Distilled from the 
 Sister skills — load them when the job leaves the classroom:
 
 - `movie-producer` for tutorial, walkthrough, explainer, and film output
+- `desk-capture` when the lesson should be screen-recorded from the virtual desk
 - `high-quality-video-generator` for HyperFrames / ffmpeg assembly
 - `song-studio` and `full-song-generator` when the lesson needs original music
 - bundled `pdf` when the source is a PDF
@@ -41,11 +42,11 @@ If the user dumps a link and says "teach this," start ingesting. Do not intervie
 
 This agent cannot see the user's local desktop by default.
 
-- URL or live site — use `browse_page` or `browser_tab` (screenshot plus DOM)
-- PDF / book file — use the bundled pdf skill
+- URL or live site — open it on the virtual desk (fetch the readable page, try a frame, log beats). Load `desk-capture` before calling a recording finished
+- PDF / book file — use the bundled pdf skill, or a file the learner picked onto the desk
 - GitHub / code — clone or fetch files, then teach from the tree
 - Figma — only if the Figma connector is connected
-- "Scan the software that is open" — ask for a screenshot, screen recording, or a shareable URL. Do not pretend you can see their screen.
+- "Scan the software that is open" — ask for a screenshot, a shared browser tab, or a file. The desk is not their computer
 - Phone photos of a book — treat as images, recover the text, then teach
 
 ## Pipeline

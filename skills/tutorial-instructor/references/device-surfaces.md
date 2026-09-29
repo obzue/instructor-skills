@@ -6,9 +6,9 @@ The instructor may guide a person through software. It may not seize a device th
 
 | Surface | What "control" means |
 | This web classroom | The lesson UI the learner is looking at |
-| A URL | Fetch and screenshot with browse tools, then narrate the real controls |
-| A PDF or book photo | Read and teach. Do not dump the book |
-| A screenshot or screen recording the user sent | Inventory the UI, then give the next single action |
+| Virtual desk | A public URL, a PDF link, or a file the learner picks. Readable text always. A live frame when the site allows it |
+| Desk film | A WebM of the address, title, and text. A real tab recording only if the learner shares the tab |
+| A screenshot the learner sent | Inventory the UI, then give the next single action |
 | Figma, Drive, GitHub | Only through connectors the user already authorized |
 
 ## Not allowed, and not a roadmap item to sneak in
