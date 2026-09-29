@@ -4,6 +4,12 @@ The company name is **ObzueAI**. Spell it that way in every document. Not Abzu. 
 
 Professor is the instructor.
 
+## First visit
+
+Corta greets you once. She is the interactive professor for ObzueAI. She teaches a course, reads a book, makes a documentary, and can start a framework for a podcast, a live event, or a live stream.
+
+Choose the device and the voice, then give Corta Membrane access. Her browser opens. Add notes if you want, or tell her the project name. If she should search the web, tell her what to open. Private documents stay off until you name a file.
+
 ## What it is for
 
 Presentations. Seminars. Colleges. Schools. Universities. Meetings. Weddings.

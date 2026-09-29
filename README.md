@@ -8,6 +8,7 @@ The how-to is [docs/HOW-TO-USE.md](docs/HOW-TO-USE.md). How a change is pushed i
 
 ## Installed skills
 
+- `corta-membrane` — Corta, the instructor brain. Greeting, access, voice, memory, and the first browser.
 - `tutorial-instructor` — a link, PDF, book, or screenshot becomes a lesson, a learning graph, Bloom checks, and SM-2 reviews.
 - `live-seminar` — one claim, one Bloom level, one objection. Rooms include seminar, university, school, presentation, meeting, and wedding.
 - `desk-capture` — film the lesson window. Beat log plus a readable WebM. A tab share only if the person allows it.
