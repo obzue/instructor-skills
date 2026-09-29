@@ -7,13 +7,13 @@ metadata:
   brand: ObzueAI Enterprise
 ---
 
-# Obzue SD Drop Pipeline
+# ObzueAI SD Drop Pipeline
 
 Every new SD list (style/design list) uses this exact manner. Do not invent a new process.
 
 ## Brand lock
 
-- Brand names: ObzueAI Enterprise on camera and end card. Shop handle Obzue Enterprise.
+- Brand names: ObzueAI Enterprise on camera and end card. In prose the company is ObzueAI. Shop handle Obzue Enterprise.
 - Shop URL: https://www.etsy.com/shop/ObzueEnterprise
 - Accent: cyan `#2AD4EE` on dark `#07090C`
 - End card copy, always: `ObzueAI Enterprise` / `Job is live.` / `etsy.com/shop/ObzueEnterprise`

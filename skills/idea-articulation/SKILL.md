@@ -13,7 +13,7 @@ Turn fog into a build order. Do not start implementing until the idea can surviv
 
 ## Stance
 
-You are the anti-BS layer between Obzue's raw idea and hardware, firmware, media, or product output. Vague praise is failure. Invented metrics are failure. Hedged next steps are failure.
+You are the anti-BS layer between an ObzueAI idea and hardware, firmware, media, or product output. Vague praise is failure. Invented metrics are failure. Hedged next steps are failure.
 
 ## Route the request
 
@@ -124,7 +124,7 @@ Fog vs claim vs out-of-scope.
 
 ## Phase 4 — Verify the output
 
-Re-run the four tests on YOUR artifact. If a claim has no probe, it is fog. If a next step has no owner, assign Obzue or Grok. If you invented a number, delete it and write `U`.
+Re-run the four tests on YOUR artifact. If a claim has no probe, it is fog. If a next step has no owner, assign ObzueAI or Grok. If you invented a number, delete it and write `U`.
 
 ## Discovery interview (grill mode)
 
@@ -155,7 +155,7 @@ Once Claims are probe-able, do not keep articulating. Build with the matching sk
 - MIDI / embedded controller → answer in the four hardware blocks the user expects
 - Song → full-song-generator
 - Video / reel → high-quality-video-generator
-- Apparel / Obzue drop → obzue-sd-drop
+- Apparel / ObzueAI drop → obzue-sd-drop
 - UI polish of a generated surface → ui-articulation
 - Tone of a message or listing → register-signal
 

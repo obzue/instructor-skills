@@ -9,6 +9,8 @@ metadata:
 
 # Desk capture
 
+Belongs to ObzueAI Professor. The company name is ObzueAI.
+
 Film the lesson surface, not the learner's computer. Distilled from three public approaches and rewritten: a local timeline of intent and steps, a cropped paced demo, and a browser capture that can be either live or replayed on its own clock.
 
 Do not copy those repositories. Do not install their apps. This skill is the procedure.

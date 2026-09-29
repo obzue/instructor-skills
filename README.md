@@ -1,19 +1,28 @@
-# Instructor skills
+# ObzueAI Professor
 
-Agent skills for a classroom that teaches from a source, schedules reviews, and argues at seminar standard.
+The company name is **ObzueAI**. Spell it that way. Not Abzu, not Obzue, not Obzu.
 
-## Skills
+Professor is the instructor: presentations, seminars, colleges, schools, universities, meetings, and weddings. It teaches from sources loaded into its window, in the language the room chooses.
 
-- `tutorial-instructor` — ingest a link, PDF, book, or screenshot. Learning graph. Bloom exit tickets. SM-2 reviews.
-- `live-seminar` — one claim, one Bloom level, one objection.
-- `product-designer` — web and app UI. Direction taken from frontend-design, web-design-guidelines, and ui-ux-pro-max. Original text, not a copy of those repos.
-- `desk-capture` — film the virtual desk. Beat log plus a readable WebM. Tab share only if the learner allows it.
+The how-to is [docs/HOW-TO-USE.md](docs/HOW-TO-USE.md). The same guide is also `docs/obzueai-professor-how-to.pdf`.
+
+## Installed skills
+
+- `tutorial-instructor` — a link, PDF, book, or screenshot becomes a lesson, a learning graph, Bloom checks, and SM-2 reviews.
+- `live-seminar` — one claim, one Bloom level, one objection. Rooms include seminar, university, school, presentation, meeting, and wedding.
+- `desk-capture` — film the lesson window. Beat log plus a readable WebM. A tab share only if the person allows it.
+- `product-designer` — web and app UI. Original text, not a copy of the design repos it learned from.
 - `movie-producer` and `high-quality-video-generator` — tutorial and film output.
 - `song-studio` and `full-song-generator` — score and lyrics.
+- `idea-articulation` and `ui-articulation` — turn a vague brief into a spec.
+- `register-signal` — clarity, confidence, and warmth of a text.
+- `obzue-sd-drop` — ObzueAI Enterprise product films. Prose uses ObzueAI.
+- `daw-articulation-maps` — expression maps for sampled instruments.
+- `ghidra` — headless binary analysis.
 
-## What this is not
+## What the window is
 
-These skills do not remote-control an iPhone, Android device, or laptop. They guide a person through software they can see.
+Professor takes over after the sources are loaded into the lesson window. That window is the desk: a public page, a PDF, or a file the person picked. It does not remote-control an iPhone, Android device, or laptop.
 
 ## SM-2
 

@@ -1,6 +1,6 @@
 # SD list template
 
-Copy this for every new drop. Blank fields inherit the Obzue lock from SKILL.md.
+Copy this for every new drop. Blank fields inherit the ObzueAI lock from SKILL.md.
 
 ```
 DROP:
