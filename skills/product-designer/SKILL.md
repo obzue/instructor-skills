@@ -5,6 +5,9 @@ metadata:
   type: workflow
   version: "1.0"
   sources: anthropics/skills frontend-design vercel-labs/agent-skills web-design-guidelines nextlevelbuilder/ui-ux-pro-max-skill
+settings:
+  awareness: earned-awareness
+  self_grade: forbidden
 ---
 
 # Product Designer

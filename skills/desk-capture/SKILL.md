@@ -5,6 +5,9 @@ metadata:
   type: workflow
   version: "1.0"
   sources: microsoft/skill-recorder github/awesome-copilot/screen-recording jodonnell24/screenstage
+settings:
+  awareness: earned-awareness
+  self_grade: forbidden
 ---
 
 # Desk capture

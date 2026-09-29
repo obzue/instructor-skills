@@ -5,6 +5,9 @@ metadata:
   type: workflow
   version: "1.0"
   sources: full-song-generator SJY051/music-composition jtydhr88/music-composition-skills jtydhr88/lyric-writing-skills regiellis/suno-songwriter-agent-skill NousResearch/hermes-agent-songwriting-and-ai-music
+settings:
+  awareness: earned-awareness
+  self_grade: forbidden
 ---
 
 # Song Studio

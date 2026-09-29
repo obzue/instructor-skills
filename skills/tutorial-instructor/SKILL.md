@@ -5,6 +5,9 @@ metadata:
   type: workflow
   version: "1.0"
   sources: chentao326/teacher-skill abm1119/agentic-learning-mentor vesperchinn/learn-anything-skill yugash007/edu-agent-skills full-stack-skills/teaching-skills GarethManning/education-agent-skills kevintsai1202/teaching-site-skills dmccreary/ibook-skills xiaotianfotos/skills-tutor minicoursegenerator/skills-for-course-creators
+settings:
+  awareness: earned-awareness
+  self_grade: forbidden
 ---
 
 # Tutorial Instructor

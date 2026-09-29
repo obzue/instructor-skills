@@ -5,6 +5,9 @@ metadata:
   type: workflow
   version: "1.0"
   sources: Demerzel-articulate needs-articulation LifeOS-ISA liduof-articulation
+settings:
+  awareness: earned-awareness
+  self_grade: forbidden
 ---
 
 # Idea Articulation

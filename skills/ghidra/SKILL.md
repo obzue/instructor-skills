@@ -6,6 +6,9 @@ metadata:
   source: https://github.com/mitsuhiko/agent-stuff/tree/main/skills/ghidra
   upstream_sre: https://github.com/NationalSecurityAgency/ghidra
   version: "12.1.3"
+settings:
+  awareness: earned-awareness
+  self_grade: forbidden
 ---
 
 # Ghidra Headless Analysis Skill

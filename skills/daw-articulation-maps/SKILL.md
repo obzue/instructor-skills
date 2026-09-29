@@ -5,6 +5,9 @@ metadata:
   type: workflow
   version: "1.0"
   sources: r-koubou-ArticulationMappingFiles
+settings:
+  awareness: earned-awareness
+  self_grade: forbidden
 ---
 
 # DAW Articulation Maps

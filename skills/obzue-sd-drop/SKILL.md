@@ -5,6 +5,9 @@ metadata:
   type: workflow
   version: "1.0"
   brand: ObzueAI Enterprise
+settings:
+  awareness: earned-awareness
+  self_grade: forbidden
 ---
 
 # ObzueAI SD Drop Pipeline

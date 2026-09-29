@@ -5,6 +5,9 @@ metadata:
   type: workflow
   version: "1.0"
   sources: liangming99-ui-articulation-skill
+settings:
+  awareness: earned-awareness
+  self_grade: forbidden
 ---
 
 # UI Articulation

@@ -5,6 +5,9 @@ metadata:
   type: workflow
   version: "1.0"
   sources: machina-exm/film-studio-skills hunanyanr/film-maker michaelboeding/video-producer-agent michaelboeding/walkthrough-script-agent Vincentwei1021/video-shotcraft haidrrrry/claude-remotion-skill smixs/visual-skills high-quality-video-generator
+settings:
+  awareness: earned-awareness
+  self_grade: forbidden
 ---
 
 # Movie Producer

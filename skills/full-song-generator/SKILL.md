@@ -5,6 +5,9 @@ metadata:
   type: workflow
   version: "1.1"
   sources: YuE2 ACE-Step-1.5 SongGeneration-LeVo DiffRhythm HeartMuse SongComposer
+settings:
+  awareness: earned-awareness
+  self_grade: forbidden
 ---
 
 # Full Song Generator

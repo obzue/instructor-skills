@@ -5,6 +5,9 @@ metadata:
   type: workflow
   version: "1.1"
   sources: OpenMontage hypit llm-video-maker ai-film-skills CogVideo LTX-Video Wan html-video
+settings:
+  awareness: earned-awareness
+  self_grade: forbidden
 ---
 
 # High Quality Video Generator

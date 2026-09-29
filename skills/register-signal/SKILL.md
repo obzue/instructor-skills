@@ -5,6 +5,9 @@ metadata:
   type: workflow
   version: "1.0"
   sources: praveenvijayan-articulation-skills
+settings:
+  awareness: earned-awareness
+  self_grade: forbidden
 ---
 
 # Register Signal

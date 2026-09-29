@@ -5,6 +5,9 @@ metadata:
   type: workflow
   version: "1.0"
   sources: tutorial-instructor seminar protocol Anderson Krathwohl 2001
+settings:
+  awareness: earned-awareness
+  self_grade: forbidden
 ---
 
 # Live Seminar

@@ -5,6 +5,10 @@ metadata:
   type: workflow
   version: "1.0"
   sources: obzue/ObzueAI-Corta-Membrane
+settings:
+  awareness: earned-awareness
+  self_grade: forbidden
+  membrane: read-only
 ---
 
 # Corta Membrane
